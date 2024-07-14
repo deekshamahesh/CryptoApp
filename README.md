@@ -32,8 +32,6 @@
 <img src="https://user-images.githubusercontent.com/85982995/134689363-3b135d10-26ef-450e-8f2a-df31de8e8c8c.png" width="250" height="400"></img>
 <img src="https://user-images.githubusercontent.com/85982995/134689368-88f255b9-f0e7-424c-b161-63b846e6b7e7.png" width="250" height="400"></img>
 <img src="https://user-images.githubusercontent.com/85982995/134689371-dc83372d-8b84-438c-8de2-2135d771d27b.png" width="250" height="400"></img>
-## Demo
-<a href="https://youtu.be/qEtn-CHkQiU" target="_blank" >click on the link to see demo of app</a>
 ## LICENSE
   
   Licensed under the Apache License, Version 2.0 (the "License");
